@@ -1,0 +1,7 @@
+gensim
+pandas
+matplotlib
+nltk
+pyLDAvis
+sklearn
+spacy
