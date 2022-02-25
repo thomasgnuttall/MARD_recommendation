@@ -8,3 +8,4 @@ Requires MARD dataset in `data/` folder - https://www.upf.edu/web/mtg/mard
 
 Paper in `documentation`
 
+Code walkthrough in `notebooks`
